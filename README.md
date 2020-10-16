@@ -13,3 +13,6 @@ How to run the file:
 
 This is my very first attempt to build a game. Understanding the game is in and of itself is a big process.
 
+The live version of this app can be found at 
+https://deepika2048react.netlify.app/
+
